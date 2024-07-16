@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/Users/hamnatameez/assignment-2-don-t-be-sentimental-htameez/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wall -Wextra -pedantic -o CMakeFiles/sentiment.dir/main.cpp.o -c /Users/hamnatameez/assignment-2-don-t-be-sentimental-htameez/main.cpp",
+  "file": "/Users/hamnatameez/assignment-2-don-t-be-sentimental-htameez/main.cpp",
+  "output": "CMakeFiles/sentiment.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/hamnatameez/assignment-2-don-t-be-sentimental-htameez/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wall -Wextra -pedantic -o CMakeFiles/sentiment.dir/DSString.cpp.o -c /Users/hamnatameez/assignment-2-don-t-be-sentimental-htameez/DSString.cpp",
+  "file": "/Users/hamnatameez/assignment-2-don-t-be-sentimental-htameez/DSString.cpp",
+  "output": "CMakeFiles/sentiment.dir/DSString.cpp.o"
+},
+{
+  "directory": "/Users/hamnatameez/assignment-2-don-t-be-sentimental-htameez/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wall -Wextra -pedantic -o CMakeFiles/sentiment.dir/Tweet.cpp.o -c /Users/hamnatameez/assignment-2-don-t-be-sentimental-htameez/Tweet.cpp",
+  "file": "/Users/hamnatameez/assignment-2-don-t-be-sentimental-htameez/Tweet.cpp",
+  "output": "CMakeFiles/sentiment.dir/Tweet.cpp.o"
+},
+{
+  "directory": "/Users/hamnatameez/assignment-2-don-t-be-sentimental-htameez/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wall -Wextra -pedantic -o CMakeFiles/sentiment.dir/Analyzer.cpp.o -c /Users/hamnatameez/assignment-2-don-t-be-sentimental-htameez/Analyzer.cpp",
+  "file": "/Users/hamnatameez/assignment-2-don-t-be-sentimental-htameez/Analyzer.cpp",
+  "output": "CMakeFiles/sentiment.dir/Analyzer.cpp.o"
+},
+{
+  "directory": "/Users/hamnatameez/assignment-2-don-t-be-sentimental-htameez/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wall -Wextra -pedantic -o CMakeFiles/test_DSString.dir/test_DSString.cpp.o -c /Users/hamnatameez/assignment-2-don-t-be-sentimental-htameez/test_DSString.cpp",
+  "file": "/Users/hamnatameez/assignment-2-don-t-be-sentimental-htameez/test_DSString.cpp",
+  "output": "CMakeFiles/test_DSString.dir/test_DSString.cpp.o"
+},
+{
+  "directory": "/Users/hamnatameez/assignment-2-don-t-be-sentimental-htameez/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wall -Wextra -pedantic -o CMakeFiles/test_DSString.dir/DSString.cpp.o -c /Users/hamnatameez/assignment-2-don-t-be-sentimental-htameez/DSString.cpp",
+  "file": "/Users/hamnatameez/assignment-2-don-t-be-sentimental-htameez/DSString.cpp",
+  "output": "CMakeFiles/test_DSString.dir/DSString.cpp.o"
+},
+{
+  "directory": "/Users/hamnatameez/assignment-2-don-t-be-sentimental-htameez/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wall -Wextra -pedantic -o CMakeFiles/test_DSString.dir/Analyzer.cpp.o -c /Users/hamnatameez/assignment-2-don-t-be-sentimental-htameez/Analyzer.cpp",
+  "file": "/Users/hamnatameez/assignment-2-don-t-be-sentimental-htameez/Analyzer.cpp",
+  "output": "CMakeFiles/test_DSString.dir/Analyzer.cpp.o"
+},
+{
+  "directory": "/Users/hamnatameez/assignment-2-don-t-be-sentimental-htameez/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -std=gnu++11 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wall -Wextra -pedantic -o CMakeFiles/test_DSString.dir/Tweet.cpp.o -c /Users/hamnatameez/assignment-2-don-t-be-sentimental-htameez/Tweet.cpp",
+  "file": "/Users/hamnatameez/assignment-2-don-t-be-sentimental-htameez/Tweet.cpp",
+  "output": "CMakeFiles/test_DSString.dir/Tweet.cpp.o"
+}
+]

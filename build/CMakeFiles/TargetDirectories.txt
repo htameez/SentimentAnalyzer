@@ -1,0 +1,4 @@
+/Users/hamnatameez/assignment-2-don-t-be-sentimental-htameez/build/CMakeFiles/sentiment.dir
+/Users/hamnatameez/assignment-2-don-t-be-sentimental-htameez/build/CMakeFiles/test_DSString.dir
+/Users/hamnatameez/assignment-2-don-t-be-sentimental-htameez/build/CMakeFiles/edit_cache.dir
+/Users/hamnatameez/assignment-2-don-t-be-sentimental-htameez/build/CMakeFiles/rebuild_cache.dir

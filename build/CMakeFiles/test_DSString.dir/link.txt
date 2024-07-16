@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/test_DSString.dir/test_DSString.cpp.o CMakeFiles/test_DSString.dir/DSString.cpp.o CMakeFiles/test_DSString.dir/Analyzer.cpp.o CMakeFiles/test_DSString.dir/Tweet.cpp.o -o test_DSString 
